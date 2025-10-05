@@ -2,12 +2,28 @@ instructor:
   - name: Mohammadreza A. Dehaqani
     profile_pic: /_images/pp/dehaqani.jpg
     webpage: https://ece.ut.ac.ir/~dehaqani
-
-teaching_assistant:
-  - name: Amirali S. Tehrani
-    profile_pic: /_images/pp/amiralisoltani.jpg
-    webpage: https://aasolteh.github.io
     
+  - name: Babak N. Arabi
+    profile_pic: /_images/pp/Dr_Arabi.jpg
+    webpage: https://ece.ut.ac.ir/~araabi
+    
+  - name: Mostafa Tavassolipour
+    profile_pic: /_images/pp/DrTavassoli.jpg
+    webpage: https://ece.ut.ac.ir/en/~tavassolipour
+
+teaching_assistant:    
   - name: Reza Salamat
     profile_pic: /_images/pp/rezasalamat.jpg
     webpage: mailto:ar.salamat@yahoo.com
+
+  - name: Pouya HMG
+    profile_pic: /_images/pp/pouya.jpg
+    webpage: https://github.com/PouyaGohari
+
+  - name: Armin Taherifar
+    profile_pic: /_images/pp/Armin.jpg
+    webpage: https://linkedin.com/in/atf1998
+
+  - name: Kamand Mesbah
+    profile_pic: /_images/pp/kammand.jpg
+    webpage: https://linkedin.com/in/kamand-mesbah-1b8b46202
