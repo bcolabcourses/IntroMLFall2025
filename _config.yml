@@ -8,7 +8,7 @@ This undergraduate course provides a comprehensive introduction to core machine 
 
 Students will work through a series of homework assignments that reinforce the theoretical material and allow them to apply concepts using Python. By the end of the course, students will be able to design, implement, and evaluate basic machine learning models, preparing them for more advanced study or applied research in AI and data science.
 "
-course_semester: "Spring 2025"
+course_semester: "Fall 2025"
 
 baseurl: "/IntroMLFall2025"
 url: "http://bcolabcourses.github.io/" # the base hostname & protocol for your site
