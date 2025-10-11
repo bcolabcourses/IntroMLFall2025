@@ -9,8 +9,8 @@ See the guidelines [**here**](https://drive.google.com/file/d/1XwXDNJSL_0sMo4831
 
 ## Book
 #### For statistics
-* John A. Rice, Mathematical Statistics and Data Analysis, 3rd edition
-* Larry Wasserman, All of Statistics: A concise course in statistical inference
+* [John A. Rice, Mathematical Statistics and Data Analysis, 3rd edition](https://drive.google.com/file/d/1PbcGI_BjhScKiO8lSj10v-rFZmq3TQh0/view?usp=sharing)
+* [Larry Wasserman, All of Statistics: A concise course in statistical inference](https://drive.google.com/file/d/1mOgBDW0AfIJ8qoeTW12vXvK6nqdyn8rQ/view?usp=sharing)
 * David Diez, Mine Ã‡etinkaya-Rundel, Christopher D Barr - OpenIntro Statistics
 
 #### For Machine Learning
