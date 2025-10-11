@@ -17,7 +17,6 @@ See the guidelines [**here**](https://drive.google.com/file/d/1XwXDNJSL_0sMo4831
 * [Trevor Hastie, Robert Tibshirani, Jerome Friedman - The Elements of Statistical Learning_ Data Mining, Inference, and Prediction, Second Edition](https://drive.google.com/file/d/1hcOT4nHrXPBmZFLq_NX89KmTanOK3Cbj/view?usp=sharing)
 * [Pattern Recognition and Machine Learning - Bishop](https://drive.google.com/file/d/18w2L_Ohw88g0piSmaqXIT3wKAfVKpwC7/view?usp=sharing)
 * [Richard O. Duda, Peter E. Hart, David G. Stork - Pattern classification-Wiley](https://drive.google.com/file/d/16ktoHT6C4l0bKe7Fuu6cv3XIcJyERkoX/view?usp=sharing)
-* [Sergios Theodoridis_ Konstantinos Koutroumbas - Pattern recognition-Academic Press](https://drive.google.com/file/d/16ktoHT6C4l0bKe7Fuu6cv3XIcJyERkoX/view?usp=sharing)
 
 ## Additional Course Materials
 
